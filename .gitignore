@@ -1,0 +1,17 @@
+# ---- Python 运行产生的缓存 ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- 虚拟环境（本项目没用到，但先写上，养成习惯）----
+.venv/
+venv/
+env/
+
+# ---- 编辑器 / IDE 的本地配置 ----
+.vscode/
+.idea/
+
+# ---- Windows 系统文件 ----
+Thumbs.db
+desktop.ini
